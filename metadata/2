@@ -1,0 +1,11 @@
+{
+    "name": "Boat Head #2",
+    "description": "Boat Heads",
+    "image": "ipfs://QmTphDmnhfvbE7QLpdoJG7WcUbTpAg8kDjHwwCY8EqncTv",
+    "attributes": [
+        {
+            "trait_type": "Boat Type",
+            "value": "Sail Boat"
+        }
+    ]
+}
